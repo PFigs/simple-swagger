@@ -18,7 +18,7 @@ requirements = [str(i.req) for i in parse_requirements('requirements.txt', sessi
 test_requirements = [str(i.req) for i in parse_requirements('requirements_dev.txt', session=False)]
 
 setup(
-    name='swagger_parser',
+    name='simple_swagger',
     version='0.1.11',
     description="Swagger parser giving useful informations about your swagger files",
     long_description=readme + '\n\n' + history,

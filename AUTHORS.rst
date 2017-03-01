@@ -2,7 +2,12 @@
 Credits
 =======
 
-Development Lead
+Fork Developer
+----------------
+
+* Pedro Silva
+
+Original author
 ----------------
 
 * Cyprien Guillemot <cyprien.guillemot@gmail.com>
